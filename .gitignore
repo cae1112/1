@@ -1,0 +1,17 @@
+
+# 1C / EDT / temp
+*.dt
+*.cf
+*.epf
+*.erf
+*.mxl
+*.tmp
+.edt/
+out/
+temp/
+.idea/
+.vscode/
+__pycache__/
+/dist/
+/release/
+/.venv/
